@@ -1,2 +1,1 @@
-# rsschool-cv
-The Rolling Scopes School CV-task repository
+https://avk-88.github.io/rsschool-cv/cv
